@@ -16,7 +16,7 @@
     <sup>3</sup>Nvidia Corporation
 </div>
 
-<img src="gist_vi.pdf" width="700">
+<img src="framework.png" width="700">
 
 Abstract:
 
