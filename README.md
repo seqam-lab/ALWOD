@@ -2,18 +2,18 @@
 
 <div align="center">
     Yuting Wang<sup>1</sup>&emsp;
-    Velibor Ilic<sup>2<sup>&emsp;
-    Jiatong Li<sup>1<sup>&emsp;
-    Branislav Kisacanin<sup>2,3<sup>&emsp;
-    Vladimir Pavlovic<sup>1<sup>&emsp;
+    Velibor Ilic<sup>2</sup>&emsp;
+    Jiatong Li<sup>1</sup>&emsp;
+    Branislav Kisacanin<sup>2,3</sup>&emsp;
+    Vladimir Pavlovic<sup>1</sup>&emsp;
 </div>
 <div>
 <div align="center">
-    <sup>1<sup>Rutgers University
+    <sup>1</sup>Rutgers University
     </br>
-    <sup>2<sup>The Institute for Artificial Intelligence Research and Development of Serbia
+    <sup>2</sup>The Institute for Artificial Intelligence Research and Development of Serbia
     	</br>
-    <sup>3<sup>Nvidia Corporation
+    <sup>3</sup>Nvidia Corporation
 </div>
 
 <img src="gist_vi.pdf" width="700">
